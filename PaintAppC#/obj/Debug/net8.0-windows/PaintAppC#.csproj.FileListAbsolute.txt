@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\bin\Debug\net8.0-windows\PaintAppC#.exe
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\bin\Debug\net8.0-windows\PaintAppC#.deps.json
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\bin\Debug\net8.0-windows\PaintAppC#.runtimeconfig.json
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\bin\Debug\net8.0-windows\PaintAppC#.dll
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\bin\Debug\net8.0-windows\PaintAppC#.pdb
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\obj\Debug\net8.0-windows\PaintAppC_.Form1.resources
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\obj\Debug\net8.0-windows\PaintAppC#.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\obj\Debug\net8.0-windows\PaintAppC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\obj\Debug\net8.0-windows\PaintAppC#.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\obj\Debug\net8.0-windows\PaintAppC#.AssemblyInfo.cs
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\obj\Debug\net8.0-windows\PaintAppC#.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\obj\Debug\net8.0-windows\PaintAppC#.dll
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\obj\Debug\net8.0-windows\refint\PaintAppC#.dll
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\obj\Debug\net8.0-windows\PaintAppC#.pdb
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\obj\Debug\net8.0-windows\PaintAppC#.genruntimeconfig.cache
+C:\Users\ACER\source\repos\PaintAppC#\PaintAppC#\obj\Debug\net8.0-windows\ref\PaintAppC#.dll
